@@ -9,6 +9,7 @@ const Navbar = () => {
               <Link to="/" className="px-3 py-2 rounded hover:bg-blue-700 transition duration-300">Home</Link>
               <Link to="/about" className="px-3 py-2 rounded hover:bg-blue-700 transition duration-300">About</Link>
               <Link to="/contact" className="px-3 py-2 rounded hover:bg-blue-700 transition duration-300">Contact</Link>
+              <Link to="/contact" className="px-3 py-2 rounded hover:bg-blue-700 transition duration-300">Social</Link>
             </div>
           </div>
         </nav>
